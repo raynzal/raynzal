@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Fahrizal!
 
 Lifelong Learner, currently studying at Uin Raden Mas Said.
+
 ![Profile Views](https://komarev.com/ghvc/?username=raynzal&color=blue&style=flat-square)
 ---
 
